@@ -1,5 +1,5 @@
 
-## 1. 20 Years of Games (ign.com) - Kaggle - Exploratory Analysis
+## 1. 20 Years of Games (ign.com)
 - Source: http://www.ign.com/reviews/games
 - Pretty clean data
 - Packages Used: ggplot2, dplyr, grid
@@ -13,3 +13,4 @@
 ## 3. Terrorist Attacks
 - Source: https://www.kaggle.com/START-UMD/gtd
 - Data from 1970 to 2016
+- Acknowledgemet: http://start.umd.edu/gtd/about/GTDTeam.aspx
