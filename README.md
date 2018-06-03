@@ -13,4 +13,6 @@
 ## 3. Terrorist Attacks
 - Source: https://www.kaggle.com/START-UMD/gtd
 - Data from 1970 to 2016
+- Packages Used: ggplot2, highcharter
+- Analysis is focused around India
 - Acknowledgemet: http://start.umd.edu/gtd/about/GTDTeam.aspx
