@@ -17,3 +17,8 @@
 - Packages used for text analysis: tm, tidytext
 - Analysis is focused around India
 - Acknowledgemet: http://start.umd.edu/gtd/about/GTDTeam.aspx
+
+## 4. Zomato
+- Source: https://www.kaggle.com/caicell/zomato-india-restaurants-eda
+- Zomato Restaurants data
+- Data analysis for strategic implementation
