@@ -21,4 +21,5 @@
 ## 4. Zomato
 - Source: https://www.kaggle.com/caicell/zomato-india-restaurants-eda
 - Zomato Restaurants data
-- Data analysis for strategic implementation
+- Data analysis for strategic implementation (India)
+- Still working on the dataset
