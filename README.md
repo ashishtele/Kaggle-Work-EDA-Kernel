@@ -23,3 +23,8 @@
 - Zomato Restaurants data
 - Data analysis for strategic implementation (India)
 - Still working on the dataset
+
+## 5. Twitter
+- Source: http://archive.ics.uci.edu/ml/datasets.html?task=cla&area=&type=&view=list
+- Gender classification
+- Tweet text analysis (WIP)
