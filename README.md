@@ -28,3 +28,9 @@
 - Source: http://archive.ics.uci.edu/ml/datasets.html?task=cla&area=&type=&view=list
 - Gender classification
 - Tweet text analysis (WIP)
+
+## 6. Google Location
+- Source: https://takeout.google.com/settings/takeout?pli=1
+- Data collected from my devices
+- Blog link 1: https://ashishtele1992.wordpress.com/google-knows-more-about-you-than-you-think-part-1/
+- Blog link 2: https://ashishtele1992.wordpress.com/google-knows-more-about-you-than-you-think-part-2/
