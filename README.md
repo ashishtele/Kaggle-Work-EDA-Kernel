@@ -34,3 +34,8 @@
 - Data collected from my devices
 - Blog link 1: https://ashishtele1992.wordpress.com/google-knows-more-about-you-than-you-think-part-1/
 - Blog link 2: https://ashishtele1992.wordpress.com/google-knows-more-about-you-than-you-think-part-2/
+
+## 7. Rat Sightings
+- Source: https://volcano.si.edu/list_volcano_holocene.cfm
+- Acknowledgement: http://www.makeovermonday.co.uk/data/
+- Make over Monday (week 28)
