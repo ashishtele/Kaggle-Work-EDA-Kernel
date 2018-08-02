@@ -38,7 +38,7 @@
 ## 7. Rat Sightings
 - Source: https://volcano.si.edu/list_volcano_holocene.cfm
 - Acknowledgement: http://www.makeovermonday.co.uk/data/
-- Make over Monday (week 28)
+- Make over Monday (week 27)
 
 ## 8. Historical NBA Team Spending Against the Cap
 - Source: https://www.whatsthecap.com/nba/salary-cap/
