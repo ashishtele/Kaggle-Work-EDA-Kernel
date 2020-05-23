@@ -54,3 +54,6 @@
 - Source: https://www.kaggle.com/payel58/dataset-for-hotels-in-indian-cities
 - Packages used: dtplyr, ggplot etc
 - Interactive Power BI report for quick analysis
+
+## 11. Indian Rain Analysis
+- Packages used: 
