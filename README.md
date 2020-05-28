@@ -56,4 +56,4 @@
 - Interactive Power BI report for quick analysis
 
 ## 11. Indian Rain Analysis
-- Packages used: forecast, dplyr, Xgboost
+- Packages used: forecast, dplyr, Xgboost etc.
