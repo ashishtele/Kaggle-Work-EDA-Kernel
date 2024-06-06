@@ -16,8 +16,8 @@
 - Data from 1970 to 2016
 - Packages Used for visualization: ggplot2, highcharter
 - Packages used for text analysis: tm, tidytext
-- Analysis is focused around India
-- Acknowledgemet: http://start.umd.edu/gtd/about/GTDTeam.aspx
+- Analysis is focused on India
+- Acknowledgment: http://start.umd.edu/gtd/about/GTDTeam.aspx
 
 ## 4. Zomato
 - Source: https://www.kaggle.com/caicell/zomato-india-restaurants-eda
