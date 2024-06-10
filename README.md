@@ -1,4 +1,4 @@
-# Topics:
+# Topics
 
 ## 1. 20 Years of Games (ign.com)
 - Source: http://www.ign.com/reviews/games
@@ -39,12 +39,12 @@
 ## 7. Rat Sightings
 - Source: https://volcano.si.edu/list_volcano_holocene.cfm
 - Acknowledgement: http://www.makeovermonday.co.uk/data/
-- Make over Monday (week 27)
+- Makeover Monday (week 27)
 
 ## 8. Historical NBA Team Spending Against the Cap
 - Source: https://www.whatsthecap.com/nba/salary-cap/
 - Acknowledgement: http://www.makeovermonday.co.uk/data/
-- Make over Monday (week 29)
+- Makeover Monday (week 29)
 
 ## 9. Volcano Eruptions
 - Source: https://volcano.si.edu/list_volcano_holocene.cfm
@@ -57,6 +57,6 @@
 - Interactive Power BI report for quick analysis
 
 ## 11. Indian Rain Analysis
-- Packages used: forecast, dplyr, Xgboost etc.
+- Packages used: forecast, dplyr, Xgboost, etc.
 
 Thank you!!
